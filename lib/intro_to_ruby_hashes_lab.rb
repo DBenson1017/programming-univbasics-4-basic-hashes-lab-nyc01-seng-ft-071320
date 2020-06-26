@@ -5,6 +5,7 @@ end
 def my_hash
   my_hash = {}
   my_hash{:name} = "Devin"
+  my_hash
 end
 
 
